@@ -57,4 +57,4 @@ Based on the above three models, an article recommendation web application is de
 ### Input Text - A Keyword
 
 * Home Page:
-![Home Page](screenshots/home_page.jpg)
+![Home Page](screenshots/home_page_keyword.jpg)
