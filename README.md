@@ -41,12 +41,13 @@ LSI is based on the principle that words that are used in the same contexts tend
   </a>
 </p>
 
+
 ### BERT NLI Sentence Transformer
 
 This is a type of Hugging Face transformers [24] typically used for natural language processing. Input for this model is the list of abstract that are cleaned during the data preprocessing.
 
 <p align="left">
-  <a href="https://medium.com/analytics-vidhya/nlp-with-latent-semantic-analysis-b3de6e16ad7d">
-    <img alt="LDA Multicore Topic Modelling" title="LDA Multicore Topic Modelling" src="https://miro.medium.com/max/1400/1*tctmPjlqV66mR9s-I5bzMg.jpeg" width="350" />
+  <a href="https://www.arxiv-vanity.com/papers/1904.09675/">
+    <img alt="BERT NLI Sentence Transformer" title="BERT NLI Sentence Transformer" src="https://media.arxiv-vanity.com/render-output/6552734/figures/bert_fig.png" width="350" />
   </a>
 </p>
