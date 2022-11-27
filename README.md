@@ -26,6 +26,6 @@ This module allows both LDA model estimation from a training corpus and inferenc
 <h1 align="left"> LDA Multicore Topic Modelling </h1> <br>
 <p align="left">
   <a href="https://www.analyticsvidhya.com/blog/2021/06/part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn/">
-    <img alt="LDA Multicore Topic Modelling" title="LDA Multicore Topic Modelling" src="https://www.researchgate.net/profile/Diego-Buenano-Fernandez/publication/339368709/figure/fig1/AS:860489982689280@1582168207260/Schematic-of-LDA-algorithm.png" width="350">
+    <img alt="LDA Multicore Topic Modelling" title="LDA Multicore Topic Modelling" src="https://www.researchgate.net/profile/Diego-Buenano-Fernandez/publication/339368709/figure/fig1/AS:860489982689280@1582168207260/Schematic-of-LDA-algorithm.jpg" width="350">
   </a>
 </p>
