@@ -9,7 +9,7 @@ This project utilizes Text Mining Techniques to recommend Articles Textually, Co
 
 ## Introduction
 
-Tphe primary purpose is to build a web application platform for article recommendation that will easily help medical researchers to search for articles. The results of the search, either with a keyword or a journal will, allow user to choose from the Articles based on Categorization of Results.
+The primary purpose is to build a web application platform for article recommendation that will easily help medical researchers to search for articles. The results of the search, either with a keyword or a journal will, allow user to choose from the Articles based on Categorization of Results.
 
 ### Models
 
@@ -49,3 +49,12 @@ This is a type of Hugging Face transformers [24] typically used for natural lang
     <img alt="BERT NLI Sentence Transformer" title="BERT NLI Sentence Transformer" src="https://media.arxiv-vanity.com/render-output/6552734/figures/bert_fig.png" width="600" height="400" />
   </a>
 </p>
+
+### Web Application - Article Recommender
+
+Based on the above three models, an article recommendation web application is developed. As an input for this application, entire article or just keyword can be taken into consideration.
+
+### Input Text - A Keyword
+
+* Home Page:
+![screenshots](home_page.jpg)
