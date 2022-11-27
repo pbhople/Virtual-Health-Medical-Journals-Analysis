@@ -25,7 +25,7 @@ This module allows both LDA model estimation from a training corpus and inferenc
 
 <p align="left">
   <a href="https://www.researchgate.net/figure/Schematic-of-LDA-algorithm_fig1_339368709">
-    <img alt="LDA Multicore Topic Modeling" title="LDA Multicore Topic Modeling" src="https://www.researchgate.net/profile/Diego-Buenano-Fernandez/publication/339368709/figure/fig1/AS:860489982689280@1582168207260/Schematic-of-LDA-algorithm.png" width="350">
+    <img alt="LDA Multicore Topic Modeling" title="LDA Multicore Topic Modeling" src="https://www.researchgate.net/profile/Diego-Buenano-Fernandez/publication/339368709/figure/fig1/AS:860489982689280@1582168207260/Schematic-of-LDA-algorithm.png" width="400">
   </a>
 </p>
 
