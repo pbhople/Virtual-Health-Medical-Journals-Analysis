@@ -23,10 +23,8 @@ Following are the three models utilized for this project:
 
 This module allows both LDA model estimation from a training corpus and inference of topic distribution on new, unseen documents. LDA Multicore provides a faster implementation, especially for exceptionally large corpora as in this case. Following is the model representation.
 
-<p align="left">
-  <a href="https://www.researchgate.net/figure/LDA-based-topic-modeling-process_fig1_349296501">
-    <img alt="LDA Multicore Topic Modeling" title="LDA Multicore Topic Modeling" src="https://www.researchgate.net/publication/349296501/figure/fig1/AS:990978731151361@1613279149953/LDA-based-topic-modeling-process.png" width="350">
-  </a>
+<p>
+	<img src="https://www.researchgate.net/publication/349296501/figure/fig1/AS:990978731151361@1613279149953/LDA-based-topic-modeling-process.png" width="350">
 </p>
 
 
