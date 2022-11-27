@@ -23,7 +23,6 @@ Following are the three models utilized for this project:
 
 This module allows both LDA model estimation from a training corpus and inference of topic distribution on new, unseen documents. LDA Multicore provides a faster implementation, especially for exceptionally large corpora as in this case. Following is the model representation.
 
-<h1 align="left"> LDA Multicore Topic Modeling </h1> <br>
 <p align="left">
   <a href="https://www.analyticsvidhya.com/blog/2021/06/part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn/">
     <img alt="LDA Multicore Topic Modeling" title="LDA Multicore Topic Modeling" src="https://www.researchgate.net/profile/Diego-Buenano-Fernandez/publication/339368709/figure/fig1/AS:860489982689280@1582168207260/Schematic-of-LDA-algorithm.png" width="350" />
@@ -37,7 +36,7 @@ LSI is based on the principle that words that are used in the same contexts tend
 
 <p align="left">
   <a href="https://medium.com/analytics-vidhya/nlp-with-latent-semantic-analysis-b3de6e16ad7d">
-    <img alt="LDA Multicore Topic Modelling" title="LDA Multicore Topic Modelling" src="https://miro.medium.com/max/1400/1*tctmPjlqV66mR9s-I5bzMg.jpeg" width="350" height="400" />
+    <img alt="LDA Multicore Topic Modelling" title="LDA Multicore Topic Modelling" src="https://miro.medium.com/max/1400/1*tctmPjlqV66mR9s-I5bzMg.jpeg" width="450" height="400" />
   </a>
 </p>
 
@@ -47,6 +46,6 @@ This is a type of Hugging Face transformers [24] typically used for natural lang
 
 <p align="left">
   <a href="https://www.arxiv-vanity.com/papers/1904.09675/">
-    <img alt="BERT NLI Sentence Transformer" title="BERT NLI Sentence Transformer" src="https://media.arxiv-vanity.com/render-output/6552734/figures/bert_fig.png" width="350" height="400" />
+    <img alt="BERT NLI Sentence Transformer" title="BERT NLI Sentence Transformer" src="https://media.arxiv-vanity.com/render-output/6552734/figures/bert_fig.png" width="450" height="400" />
   </a>
 </p>
