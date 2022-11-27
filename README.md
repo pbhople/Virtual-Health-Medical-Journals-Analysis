@@ -9,7 +9,7 @@ This project utilizes Text Mining Techniques to recommend Articles Textually, Co
 
 ## Introduction
 
-The primary purpose is to build a web application platform for article recommendation that will easily help medical researchers to search for articles. The results of the search, either with a keyword or a journal will, allow user to choose from the Articles based on Categorization of Results.
+Tphe primary purpose is to build a web application platform for article recommendation that will easily help medical researchers to search for articles. The results of the search, either with a keyword or a journal will, allow user to choose from the Articles based on Categorization of Results.
 
 ### Models
 
