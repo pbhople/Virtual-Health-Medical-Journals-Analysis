@@ -17,7 +17,7 @@ Following are the three models utilized for this project:
 
 * Latent Dirichlet Allocation (LDA) Multicore 
 * Latent Semantic Indexing (LSI)
-* BERT NLI Senence Transformer
+* BERT NLI Sequence Transformer
 
 ### Latent Dirichlet Allocation (LDA) Multicore
 
