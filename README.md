@@ -56,7 +56,9 @@ Based on the above three models, an article recommendation web application is de
 
 * Home Page:
 
-![Home Page](screenshots/home_page.jpg)
+![Home Page](screenshots/home_page_latest_1.jpg)
+
+![Home Page](screenshots/home_page_latest_update_2.jpg)
 
 * Topic Page:
 
