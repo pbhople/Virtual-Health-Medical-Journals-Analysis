@@ -54,7 +54,14 @@ This is a type of Hugging Face transformers [24] typically used for natural lang
 
 Based on the above three models, an article recommendation web application is developed. As an input for this application, entire article or just keyword can be taken into consideration.
 
-### Input Text - A Keyword
-
 * Home Page:
-![Home Page](screenshots/home_page_keyword.jpg)
+
+![Home Page](screenshots/home_page.jpg)
+
+* Topic Page:
+
+![Topic Page](screenshots/topic_page_keyword.jpg)
+
+* Result Page:
+
+![Result Page](screenshots/result_page.jpg)
