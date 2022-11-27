@@ -24,8 +24,8 @@ Following are the three models utilized for this project:
 This module allows both LDA model estimation from a training corpus and inference of topic distribution on new, unseen documents. LDA Multicore provides a faster implementation, especially for exceptionally large corpora as in this case. Following is the model representation.
 
 <p align="left">
-  <a href="https://www.analyticsvidhya.com/blog/2021/06/part-2-topic-modeling-and-latent-dirichlet-allocation-lda-using-gensim-and-sklearn/">
-    <img alt="LDA Multicore Topic Modeling" title="LDA Multicore Topic Modeling" src="https://www.researchgate.net/profile/Diego-Buenano-Fernandez/publication/339368709/figure/fig1/AS:860489982689280@1582168207260/Schematic-of-LDA-algorithm.png" width="350" />
+  <a href="https://medium.com/codechef-vit/latent-dirichlet-allocation-812bb8099518">
+    <img alt="LDA Multicore Topic Modeling" title="LDA Multicore Topic Modeling" src="https://miro.medium.com/max/828/0*eTImSma37fd3aPka.png" width="550" height="400" />
   </a>
 </p>
 
@@ -49,4 +49,3 @@ This is a type of Hugging Face transformers [24] typically used for natural lang
     <img alt="BERT NLI Sentence Transformer" title="BERT NLI Sentence Transformer" src="https://media.arxiv-vanity.com/render-output/6552734/figures/bert_fig.png" width="550" height="400" />
   </a>
 </p>
-
