@@ -1,7 +1,7 @@
 <h1 align="center"> Virtual Health Medical Journals Analysis </h1> <br>
 <p align="center">
-  <a href="http://clipart-library.com/clipart/kc8odg89i.htm">
-    <img alt="Virtual Health Medical Journals Analysis" title="Virtual Health Medical Journals Analysis" src="http://clipart-library.com/images/kc8odg89i.jpg" width="450">
+  <a href="https://stock.adobe.com/images/health-research-logo-search-health-logo-search-pulse-medical-logo-research-template-designs/143853321">
+    <img alt="Virtual Health Medical Journals Analysis" title="Virtual Health Medical Journals Analysis" src="https://as2.ftcdn.net/v2/jpg/01/43/85/33/1000_F_143853321_f7E6XSX5U5aE5nOjis9YwOWYdVsihmvD.jpg" width="400">
   </a>
 </p>
 
