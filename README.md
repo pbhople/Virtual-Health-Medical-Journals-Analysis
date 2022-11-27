@@ -36,7 +36,7 @@ LSI is based on the principle that words that are used in the same contexts tend
 
 <p align="left">
   <a href="https://medium.com/analytics-vidhya/nlp-with-latent-semantic-analysis-b3de6e16ad7d">
-    <img alt="LDA Multicore Topic Modelling" title="LDA Multicore Topic Modelling" src="https://miro.medium.com/max/1400/1*tctmPjlqV66mR9s-I5bzMg.jpeg" width="450" height="400" />
+    <img alt="LDA Multicore Topic Modelling" title="LDA Multicore Topic Modelling" src="https://miro.medium.com/max/1400/1*tctmPjlqV66mR9s-I5bzMg.jpeg" width="550" height="400" />
   </a>
 </p>
 
@@ -46,6 +46,7 @@ This is a type of Hugging Face transformers [24] typically used for natural lang
 
 <p align="left">
   <a href="https://www.arxiv-vanity.com/papers/1904.09675/">
-    <img alt="BERT NLI Sentence Transformer" title="BERT NLI Sentence Transformer" src="https://media.arxiv-vanity.com/render-output/6552734/figures/bert_fig.png" width="450" height="400" />
+    <img alt="BERT NLI Sentence Transformer" title="BERT NLI Sentence Transformer" src="https://media.arxiv-vanity.com/render-output/6552734/figures/bert_fig.png" width="550" height="400" />
   </a>
 </p>
+
